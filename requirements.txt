@@ -1,0 +1,6 @@
+libs python:
+  json
+  telebot
+  requests
+apps:
+  lm studio
