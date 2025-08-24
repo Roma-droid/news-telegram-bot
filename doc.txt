@@ -1,7 +1,0 @@
-**If you want to edit settings:**
-
-
-**BOT_TOKEN use telebot for send message**
----
-
-**LM_STUDIO_URL use for api models**
