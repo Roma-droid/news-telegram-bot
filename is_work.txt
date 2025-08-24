@@ -1,0 +1,7 @@
+testing functionality:  
+  I expect that everything will work fine, but it may not work for whatever reasons, but it's important to us that everything works. The main question is how to solve the problem?
+  location:
+    Check if the automatic location is working(Solution: set the location manually set_country)
+  genireting (important):
+    Check if model genireting news and send it(Solution if not genireting: enadle cors.Solution if not send: check token)
+  
