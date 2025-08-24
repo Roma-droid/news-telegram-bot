@@ -6,7 +6,7 @@ import sqlite3
 import time
 
 # Настройки
-BOT_TOKEN = '8164909440:AAHemeo02iKSmQaTev7Q7k_W8tEeMJ7IrxE'  # Замените на токен от @BotFather
+BOT_TOKEN = 'YOURTOKEN'  # Замените на токен от @BotFather
 LM_STUDIO_URL = "http://localhost:1234/v1/chat/completions"  # URL LM Studio API
 HEADERS = {"Content-Type": "application/json"}
 NOMINATIM_API = "https://nominatim.openstreetmap.org/reverse"  # API для определения страны
@@ -227,4 +227,5 @@ def flood_command(message):
 if __name__ == '__main__':
     init_database()
     print("Бот запущен")
+
     bot.infinity_polling()
