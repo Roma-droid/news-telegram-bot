@@ -10,7 +10,7 @@
 **Usefulness** This telegram bot send real news
 ---
 
-**Author** Roma-droid
+**Author:** [Roma-droid](https://github.com/Roma-droid)
 ---
 
 **How to install:**
@@ -28,5 +28,6 @@
 ---
 
 **FAQ:**
-    If I find a mistake or a problem, click [here](https://github.com/Roma-droid/news-telegram-bot/issues)
+    1.If I find a mistake or a problem, what should I do?, click [here](https://github.com/Roma-droid/news-telegram-bot/issues)
+    2.How to contact me? [Telegram](https://t.me/Roma154Rss)
 
