@@ -10,7 +10,7 @@
     [time](https://docs.python.org/3/library/time.html)
 ---
 
-**Usefulness** This telegram bot send real news
+**Usefulness:** This telegram bot send real news
 ---
 
 **Author:** [Roma-droid](https://github.com/Roma-droid)
@@ -33,6 +33,7 @@
 **FAQ:**
     1.If I find a mistake or a problem, what should I do?, click [here](https://github.com/Roma-droid/news-telegram-bot/issues)
     2.How to contact me? [Telegram](https://t.me/Roma154Rss)
+
 
 
 
