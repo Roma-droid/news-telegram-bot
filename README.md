@@ -24,7 +24,7 @@
     
 3.Install libs
     
-    pipenv install requests telebot json
+    pipenv install requests telebot json pycountry
 ***4.Download this project, edit and start***
 ---
 
@@ -32,6 +32,7 @@
 1.If I find a mistake or a problem, what should I do?, click [here](https://github.com/Roma-droid/news-telegram-bot/issues)
 
 2.How to contact me?, use [Telegram](https://t.me/Roma154Rss)
+
 
 
 
