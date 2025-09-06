@@ -5,6 +5,9 @@
     [telebot](https://pytba.readthedocs.io/en/latest/index.html)
     [requests](https://requests.readthedocs.io/en/latest/index.html)
     [json](https://docs.python.org/3/library/json.html)
+    [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+    [pycountry](https://pypi.org/project/pycountry/)
+    [time](https://docs.python.org/3/library/time.html)
 ---
 
 **Usefulness** This telegram bot send real news
@@ -30,6 +33,7 @@
 **FAQ:**
     1.If I find a mistake or a problem, what should I do?, click [here](https://github.com/Roma-droid/news-telegram-bot/issues)
     2.How to contact me? [Telegram](https://t.me/Roma154Rss)
+
 
 
 
