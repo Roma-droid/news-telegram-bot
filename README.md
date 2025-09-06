@@ -17,14 +17,12 @@
 ---
 
 **How to install:**
-    1.Create new virtual env(pipev shell or python -m venv news)
-    ---
+
+1.Create new virtual env(pipev shell or python -m venv news)
     
 2.In lmstudio load your model(example: gemma3) and start server
-    ---
     
 3.Install libs
-    ---
     
     pipenv install requests telebot json
 ***4.Download this project, edit and start***
@@ -34,6 +32,7 @@
 1.If I find a mistake or a problem, what should I do?, click [here](https://github.com/Roma-droid/news-telegram-bot/issues)
 
 2.How to contact me? [Telegram](https://t.me/Roma154Rss)
+
 
 
 
