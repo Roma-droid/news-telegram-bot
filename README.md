@@ -1,6 +1,11 @@
 **Idea:** **This telegram bot allows send you news but ai send news**
 ---
 
+<video width="320" height="240" controls autoplay loop muted poster="poster.jpg">
+  <source src="video1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 **Use lib:**
     [telebot](https://pytba.readthedocs.io/en/latest/index.html)
     [requests](https://requests.readthedocs.io/en/latest/index.html)
@@ -30,4 +35,5 @@
 **FAQ:**
     1.If I find a mistake or a problem, what should I do?, click [here](https://github.com/Roma-droid/news-telegram-bot/issues)
     2.How to contact me? [Telegram](https://t.me/Roma154Rss)
+
 
