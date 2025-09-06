@@ -31,7 +31,8 @@
 **FAQ:**
 1.If I find a mistake or a problem, what should I do?, click [here](https://github.com/Roma-droid/news-telegram-bot/issues)
 
-2.How to contact me? [Telegram](https://t.me/Roma154Rss)
+2.How to contact me?, use [Telegram](https://t.me/Roma154Rss)
+
 
 
 
